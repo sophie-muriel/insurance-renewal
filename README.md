@@ -184,7 +184,7 @@ Right here > [INSURANCE // RENEWAL](#-web-app--live-demo)
 
 ## 📊 GENERAL CONCLUSIONS
 
-> \*Main goal: **What factors influence the likelihood of renewing insurance premiums, and how can we prepare the dataset, model, and evaluate to predict this probability and optimize incentives?\***
+> \*Main goal: **What factors influence the likelihood of renewing insurance premiums, and how can the dataset be prepared, modeled, and evaluated to predict this probability and optimize incentives?\***
 
 The final model (**Random Forest**) was chosen after EDA, data preprocessing, and comparative testing of multiple models — mainly because of its ability to handle severe class imbalance (~6.3% churn rate). This model also shows excellent differentiation between renewing and non-renewing customers.
 

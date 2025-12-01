@@ -16,9 +16,9 @@
 ## ⚡ WEB APP // LIVE DEMO
 
 This project runs as a Flask web application for real-time inference.
-The production instance is statically deployed on **Railway**.
+The production instance is statically deployed on [**Render**](https://render.com/).
 
-**🔗 ACCESS HERE** > **[insurance-renewal.up.railway.app](https://insurance-renewal.up.railway.app/)**
+**🔗 ACCESS HERE** > **[insurance-renewal.onrender.com](https://insurance-renewal.onrender.com/)**
 
 ## ⚠️ NOTE: EXTERNAL FILES
 
@@ -53,7 +53,7 @@ This repository analyzes behavior patterns in insurance policy payments to predi
 - `PREPROCESSING`: Cleaning, encoding, imputation, normalization, and variable transformation.
 - `MODELING`: Training and evaluation of models (Random Forest, KNN, Logistic Regression).
 - `RECOMMENDATIONS`: Final conclusions and suggested actions to improve retention and optimize sales efforts.
-- `DEPLOYMENT`: Flask API + styled frontend hosted on **Railway**.
+- `DEPLOYMENT`: Flask API + styled frontend hosted on [**Render**](https://render.com/).
 
 ## 📂 FILE STRUCTURE
 
